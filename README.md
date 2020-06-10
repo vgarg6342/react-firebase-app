@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+React app with firebase as the backend. 
+use of react-router-dom (for routing) and MaterialUI liberary (bare minimum for this project) 
+use of react context API to build dynamic forms which are stored in firebase firestore in a nested document structure.
 
 ## Available Scripts
 
